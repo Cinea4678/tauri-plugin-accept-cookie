@@ -1,8 +1,11 @@
 [package]
 name = "tauri-plugin-accept-cookie"
-version = "0.0.0"
-authors = [ "You" ]
-description = ""
+version = "1.0.0"
+authors = [ "Zhang Yao<cineazhan@gmail.com>" ]
+description = "A Tauri plugin for accept cookie in android."
+homepage = "https://github.com/Cinea4678/tauri-plugin-accept-cookie"
+repository = "https://github.com/Cinea4678/tauri-plugin-accept-cookie"
+license = "MIT"
 edition = "2021"
 rust-version = "1.70"
 exclude = ["/examples", "/webview-dist", "/webview-src", "/node_modules"]
